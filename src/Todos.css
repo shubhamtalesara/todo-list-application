@@ -1,0 +1,15 @@
+.inputItems{
+    display: flex;
+    flex-direction: row; 
+}
+.deleteButton{
+    margin: 15px;
+    width: 50px;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    border: 0px;
+}
+.deleteButton:hover{
+    cursor: pointer;
+}
